@@ -1,5 +1,0 @@
-Account: oscar Pass: sdfsdf
-Account: oscargutip0@gmail.com Pass: 23456
-Account: oscargutip0@gmail.com Pass: seee
-Account: gutierrezoscar200128@gmail.com Pass: asfds
-Account: gutierrezoscar200128@gmail.com Pass: df
